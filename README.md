@@ -1,0 +1,1 @@
+# rs_camps_version
